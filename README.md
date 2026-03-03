@@ -1,16 +1,45 @@
-## Hi there 👋
+# Gowtham Uppalapati 👋
+📍 Göttingen, Germany | 🎓 Master’s Student (Sustainable International Agriculture)  
+✉️ gowthamuppalapati21@gmail.com
 
-<!--
-**gowthamuppalapati/gowthamuppalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Master’s student in **Sustainable International Agriculture** (University of Göttingen & University of Kassel)
+- Former **Software Tester** (Pinnacle Group, Inc.) with experience in end-to-end testing, defect tracking, and data accuracy
+- Interested in **digital agriculture, remote sensing, precision farming, and data-driven decision support**
+- Comfortable with **Python, Java, GIS workflows**, and cloud/dev tools
 
-Here are some ideas to get you started:
+## What I’m focusing on
+- Remote sensing & geospatial analytics for agriculture (Sentinel-2, NDVI/NDWI)
+- Building clean, reproducible data workflows (Python + GIS)
+- Learning and applying cloud + DevOps practices to research projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**Programming:** Python, Java  
+**Geospatial/RS:** QGIS, NDVI/NDWI, Raster processing (Rasterio, Rioxarray)  
+**Tools:** Git/GitHub, VS Code, Testing docs & workflows  
+**Cloud/DevOps:** AWS, Docker, Kubernetes, Jenkins, CircleCI, Terraform  
+**OS:** Windows, Linux
+
+## Featured project
+### 🌿 Satellite-Based Drought Stress & Irrigation Priority Mapping
+- Built a remote sensing workflow using **Sentinel-2 + Python**
+- Generated **NDVI/NDWI** to assess vegetation health and water stress
+- Created drought stress maps & irrigation priority zones
+- Visualized outputs in **QGIS**
+
+## Experience
+**Software Tester — Pinnacle Group, Inc. (Hyderabad)**  
+*Dec 2023 – May 2025*
+- Tested web & mobile applications end-to-end for reliability and functional correctness
+- Designed and executed manual test cases; maintained clear test documentation
+- Tracked defects and collaborated with dev/QA teams to validate fixes
+- Focused on **data accuracy, consistency, and structured processes**
+
+## Education
+- **MSc Sustainable International Agriculture (SIA)** — University of Göttingen & University of Kassel (Oct 2025 – Present)  
+  Relevant: soil fertility, organic farming systems, agri-environmental policy, agricultural data analysis, precision farming
+- **BSc Agriculture Sciences** — Dr. Rajendra Gode College of Agriculture, Buldana (Aug 2019 – Jul 2023)
+
+## Contact
+- Email: **gowthamuppalapati21@gmail.com**
+- Location: **Göttingen, Germany
