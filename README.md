@@ -20,12 +20,18 @@
 **Cloud/DevOps:** AWS, Docker, Kubernetes, Jenkins, CircleCI, Terraform  
 **OS:** Windows, Linux
 
-## Featured project
-### 🌿 Satellite-Based Drought Stress & Irrigation Priority Mapping
+## Featured projects
+###  Satellite-Based Drought Stress & Irrigation Priority Mapping
 - Built a remote sensing workflow using **Sentinel-2 + Python**
 - Generated **NDVI/NDWI** to assess vegetation health and water stress
 - Created drought stress maps & irrigation priority zones
 - Visualized outputs in **QGIS**
+
+### Precision Weed Detection and Targeted Spraying (Ongoing Independent Study)
+- Developing a precision agriculture workflow using remote sensing and geospatial analysis to identify potential weed-infested zones in crop fields.
+- Analysing vegetation indices such as NDVI to detect crop variability and possible weed pressure areas.
+- Building analysis workflows using Python and GIS tools to support site-specific herbicide application and precision spraying decisions.
+- Exploring how precision application technologies can reduce agrochemical use while maintaining effective weed control.
 
 ## Experience
 **Software Tester — Pinnacle Group, Inc. (Hyderabad)**  
