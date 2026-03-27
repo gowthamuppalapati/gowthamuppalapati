@@ -5,19 +5,20 @@
 ## About me
 - Master’s student in **Sustainable International Agriculture** (University of Göttingen & University of Kassel)
 - Former **Software Tester** (Pinnacle Group, Inc.) with experience in end-to-end testing, defect tracking, and data accuracy
+- Currently working as a Student Assistant, contributing to the development of a real-time E-Nase sensor
+visualization system using Python and pygame, focusing on sensor data processing, noise handling, and real
+time analytical workflows.
 - Interested in **digital agriculture, remote sensing, precision farming, and data-driven decision support**
 - Comfortable with **Python, Java, GIS workflows**, and cloud/dev tools
 
 ## What I’m focusing on
 - Remote sensing & geospatial analytics for agriculture (Sentinel-2, NDVI/NDWI)
 - Building clean, reproducible data workflows (Python + GIS)
-- Learning and applying cloud + DevOps practices to research projects
 
 ## Tech stack
 **Programming:** Python, Java  
 **Geospatial/RS:** QGIS, NDVI/NDWI, Raster processing (Rasterio, Rioxarray)  
 **Tools:** Git/GitHub, VS Code, Testing docs & workflows  
-**Cloud/DevOps:** AWS, Docker, Kubernetes, Jenkins, CircleCI, Terraform  
 **OS:** Windows, Linux
 
 ## Featured projects
@@ -34,6 +35,17 @@
 - Exploring how precision application technologies can reduce agrochemical use while maintaining effective weed control.
 
 ## Experience
+**Student Assistant (HiWi) - University of Kassel, Witzenhausen,
+Germany -**  03/2026 – Present
+- Developing a dynamic spider (radar) plot visualization using pygame for multi
+  sensor data representation.
+- Processing live sensor data (MQ sensors) using Python, implementing data 
+  handling and real-time updates
+- Implementing noise reduction techniques such as rolling averages to improve 
+  reliability of sensor readings.
+- Working on data pipelines (Raspberry Pi → Python) for real-time data acquisition 
+  and processing
+
 **Software Tester — Pinnacle Group, Inc. (Hyderabad)**  
 *Dec 2023 – May 2025*
 - Tested web & mobile applications end-to-end for reliability and functional correctness
