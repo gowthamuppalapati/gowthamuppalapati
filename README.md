@@ -1,11 +1,11 @@
 # Gowtham Uppalapati 👋
 📍 Göttingen, Germany | 🎓 Master's Student (Sustainable International Agriculture)  
-✉️ gowthamuppalapati21@gmail.com [LinkedIn](https://www.linkedin.com/in/gowtham-uppalapati/) · [Portfolio](https://gowthamuppalapati.github.io/Gowtham-agritech-portfolio/)
+✉️ gowthamuppalapati21@gmail.com · [LinkedIn](https://www.linkedin.com/in/gowtham-uppalapati/) · [Portfolio](https://gowthamuppalapati.github.io/Gowtham-agritech-portfolio/)
 
 ## About me
 **Digital agriculture · remote sensing · crop monitoring** – I build end to end, from satellite data to a running web app.
 - M.Sc. Sustainable International Agriculture (Göttingen & Kassel) · B.Sc. Agriculture · former test-automation engineer.
-- Currently a Student Assistant at the University of Kassel, building the computer-vision training dataset behind **BeetleBot**, an autonomous robot that     detects crop pests — multi-light field imaging and life-stage-aware image annotation in LabelMe
+- Currently a Student Assistant at the University of Kassel, contributing to agricultural research projects.
 
 
 ## Now building: Field Intelligence
@@ -23,8 +23,6 @@ Code is private while it is being built; results and screenshots are on LinkedIn
   - soil map from bare-soil images + terrain (EU LUCAS samples): clay R² 0.47 on unseen 50 km blocks
 - **Web app** – React, TypeScript, MapLibre, FastAPI, PostGIS; German and English; Linux server with Docker, HTTPS,
     backups and uptime checks; 100+ automated tests.
-  -  i-class annotation for ML models
-  -  Building clean, reproducible data workflows (Python + GIS)
 
 
 ## Previous Projects
@@ -34,6 +32,7 @@ Code is private while it is being built; results and screenshots are on LinkedIn
 - Built an automated Sentinel-2 pipeline via the Microsoft Planetary Computer STAC API — cloud-filtered search, AOI clipping, band extraction
 - Combined NDVI and a SWIR-based NDWI into a single drought stress index
 - Classified the index into three irrigation-priority tiers (High/Medium/Low) using percentile-based thresholds
+- *Prototype – known issues listed in the repo.*
 
 ### 🌱 weedscout – where to scout for weeds first
 🔗 [github.com/field-intelligence-platform/weedscout](https://github.com/field-intelligence-platform/weedscout) · open source (Apache-2.0) · v1.6.0
@@ -42,7 +41,7 @@ Code is private while it is being built; results and screenshots are on LinkedIn
 - It is a scouting map, not a weed detector: a weak zone can also be waterlogging, compaction or nutrient stress, and every zone shows its evidence ("weaker on 8 of 10 dates").
 - Tested on 28 fields across Germany it was never tuned on, it found 79–81 % of planted weak patches and flags almost nothing by chance. 
 
-### 🐐 Virtual Fencing — GPS-Based Livestock Containment.
+### 🐐 Virtual Fencing — GPS-Based Livestock Containment
 🔗 [github.com/gowthamuppalapati/Virtual_Fence_Proj](https://github.com/gowthamuppalapati/Virtual_Fence_Proj)
 - Simulated the GPS-collar containment tech used by Nofence/Halter/eShepherd — audio-then-stimulus cues instead of physical fencing
 - Shapely-based boundary-crossing prediction — warns animals based on projected heading, not just current position
@@ -57,21 +56,22 @@ Code is private while it is being built; results and screenshots are on LinkedIn
 
 **Software Tester — Pinnacle Group, Inc. (Hyderabad)**
 *Dec 2023 – May 2025*
-- Tested web & mobile applications end-to-end for reliability and functional correctness
-- Designed and executed manual test cases; maintained clear test documentation
+- Automated end-to-end tests for web & mobile applications (Java, Selenium, TestNG, Jenkins CI)
+- Built and maintained regression suites and clear test documentation
 - Tracked defects and collaborated with dev/QA teams to validate fixes
-- Focused on **data accuracy, consistency, and structured processes**
+- DevOps work on AWS; focused on **data accuracy, consistency, and structured processes**
 
 ## Education
 - **MSc Sustainable International Agriculture (SIA)** — University of Göttingen & University of Kassel (Oct 2025 – Present)  
   Relevant: soil fertility, organic farming systems, agri-environmental policy, agricultural data analysis, precision farming
+- **B.Sc. Agriculture** — PDKV Akola
   
 ## Skills
-**Agriculture:** agronomy, crop production, crop monitoring, soil science, weed & pest management, precision farming
-**Agri data:** remote sensing (Sentinel-1/2, Landsat), vegetation indices, GIS / QGIS, PostGIS, machine learning (LightGBM), data analysis
-**Development:** Python, FastAPI, React, TypeScript, SQL, Java, Git
-**Testing:** test automation, Selenium, TestNG, pytest, regression testing
-**Deployment:** Linux servers, Docker, CI/CD (GitHub Actions, Jenkins), Oracle Cloud, AWS (EC2, S3, IAM, VPC)
+- **Agriculture:** agronomy, crop production, crop monitoring, soil science, weed & pest management, precision farming
+- **Agri data:** remote sensing (Sentinel-1/2, Landsat), vegetation indices, GIS / QGIS, PostGIS, machine learning (LightGBM), data analysis
+- **Development:** Python, FastAPI, React, TypeScript, SQL, Java, Git
+- **Testing:** test automation, Selenium, TestNG, pytest, regression testing
+- **Deployment:** Linux servers, Docker, CI/CD (GitHub Actions, Jenkins), Oracle Cloud, AWS (EC2, S3, IAM, VPC)
 
 ## Contact
 - Email: **gowthamuppalapati21@gmail.com**
