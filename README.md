@@ -29,8 +29,6 @@ Code is private while it is being built; results and screenshots are on LinkedIn
 
 ## Previous Projects
 
-### 🐞 BeetleBot — Autonomous Pest Detection *(Current)*
-
 ### 🛰️ Satellite-Based Drought Stress & Irrigation Priority Mapping
 🔗 [github.com/gowthamuppalapati/agri-drought-monitor](https://github.com/gowthamuppalapati/agri-drought-monitor)
 - Built an automated Sentinel-2 pipeline via the Microsoft Planetary Computer STAC API — cloud-filtered search, AOI clipping, band extraction
