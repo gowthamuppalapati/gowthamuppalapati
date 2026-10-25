@@ -32,7 +32,7 @@ Code is private while it is being built; results and screenshots are on LinkedIn
 - Built an automated Sentinel-2 pipeline via the Microsoft Planetary Computer STAC API — cloud-filtered search, AOI clipping, band extraction
 - Combined NDVI and a SWIR-based NDWI into a single drought stress index
 - Classified the index into three irrigation-priority tiers (High/Medium/Low) using percentile-based thresholds
-- *Prototype – known issues listed in the repo.*
+- *Prototype*
 
 ### 🌱 weedscout – where to scout for weeds first
 🔗 [github.com/field-intelligence-platform/weedscout](https://github.com/field-intelligence-platform/weedscout) · open source (Apache-2.0) · v1.6.0
